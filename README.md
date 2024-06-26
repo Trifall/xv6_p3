@@ -1,3 +1,9 @@
+
+# XV6 Modified
+
+A modified version of the XV6 OS for my Operating Systems course. We had to implement fetching of ints and strings from target processes, manage locks, implement directory commands (mkdir and chdir, pwd), and handle child processes / forking.
+
+## XV6 doc
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
 but is implemented for a modern x86-based multiprocessor using ANSI C.
